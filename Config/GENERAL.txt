@@ -117,6 +117,10 @@ CONFIG_PACKAGE_kmod-nf-ipvs=y
 CONFIG_PACKAGE_kmod-nf-nat6=y
 CONFIG_PACKAGE_kmod-dummy=y
 CONFIG_PACKAGE_kmod-veth=y
+CONFIG_PACKAGE_kmod-overlay=y
+CONFIG_PACKAGE_kmod-bridge=y
+CONFIG_PACKAGE_kmod-nf-nathelper=y
+CONFIG_PACKAGE_kmod-nf-nathelper-extra=y
 #  docker dependencies
 CONFIG_PACKAGE_iptables-mod-extra=y
 CONFIG_PACKAGE_ip6tables-mod-fullconenat=y
