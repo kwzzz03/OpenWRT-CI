@@ -122,6 +122,10 @@ CONFIG_PACKAGE_kmod-overlay=y
 CONFIG_PACKAGE_kmod-bridge=y
 CONFIG_PACKAGE_kmod-nf-nathelper=y
 CONFIG_PACKAGE_kmod-nf-nathelper-extra=y
+CONFIG_PACKAGE_kmod-fs-aufs=y
+CONFIG_PACKAGE_kmod-fs-ext4=y
+CONFIG_PACKAGE_kmod-fs-overlay=y
+CONFIG_PACKAGE_kmod-fs-xfs=y
 #  docker dependencies
 CONFIG_PACKAGE_iptables-mod-extra=y
 CONFIG_PACKAGE_ip6tables-mod-fullconenat=y
