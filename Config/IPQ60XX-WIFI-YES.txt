@@ -5,5 +5,6 @@ CONFIG_TARGET_qualcommax_ipq60xx=y
 CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_jdcloud_re-cs-02=y
 CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_zn_m2=y
 # Swap
+CONFIG_PACKAGE_zram-swap=y
 CONFIG_PACKAGE_kmod-ath11k-pci=n
 CONFIG_PACKAGE_luci-app-dockerman=m
