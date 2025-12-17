@@ -44,11 +44,11 @@ jobs:
       #默认主题
       WRT_THEME: aurora
       #默认主机名
-      WRT_NAME: KWRT
+      WRT_NAME: MWRT
       #默认WIFI名称
-      WRT_SSID: Moto_5G
+      WRT_SSID: Pig_5G
       #默认WIFI密码
-      WRT_WORD: arzin1122
+      WRT_WORD: k13760405087
       #默认地址
       WRT_IP: 172.16.9.1
       #默认密码，仅作提示，修改无用
