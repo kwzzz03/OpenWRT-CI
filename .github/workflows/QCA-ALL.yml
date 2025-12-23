@@ -44,13 +44,13 @@ jobs:
       #默认主题
       WRT_THEME: aurora
       #默认主机名
-      WRT_NAME: MWRT
+      WRT_NAME: SWRT
       #默认WIFI名称
-      WRT_SSID: Pig_5G
+      WRT_SSID: MTCA_5G
       #默认WIFI密码
-      WRT_WORD: k13750405087
+      WRT_WORD: 11112222
       #默认地址
-      WRT_IP: 172.16.9.1
+      WRT_IP: 172.16.8.1
       #默认密码，仅作提示，修改无用
       WRT_PW: ZN-M2
       #源码链接
